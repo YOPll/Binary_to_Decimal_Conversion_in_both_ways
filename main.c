@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void   ft_dec(void)
 {
     int rem;
